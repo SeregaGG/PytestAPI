@@ -1,0 +1,7 @@
+{
+  "request": "/api/register",
+  "body": {
+    "email": "eve.holt@reqres.in",
+    "password": "pistol"
+  }
+}

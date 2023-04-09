@@ -1,0 +1,6 @@
+{
+  "request": "/api/register",
+  "body": {
+    "email": "sydney@fife"
+  }
+}

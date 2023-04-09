@@ -1,0 +1,7 @@
+{
+  "request": "/api/login",
+  "body": {
+    "email": "eve.holt@reqres.in",
+    "password": "cityslicka"
+  }
+}

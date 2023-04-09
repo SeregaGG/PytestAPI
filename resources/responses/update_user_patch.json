@@ -1,0 +1,7 @@
+{
+  "request": "/api/users/2",
+  "body": {
+    "name": "morpheus",
+    "job": "zion resident"
+  }
+}
